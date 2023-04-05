@@ -78,5 +78,7 @@ The Variance of arrival from feeder is 4.128
 The Standard deviation of arrival from feeder is 2.032
 ```
 #Result:
+```
 The mean and variance of arrivals of objects from feeder using probability distribution is calculated.
+```
 
