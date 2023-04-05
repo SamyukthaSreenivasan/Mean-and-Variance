@@ -70,4 +70,13 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
-# Results and Output : 
+#Output:
+```
+5 0 1 4 2 3 7 5 3 5 5 7 7 2 3 3 5 3 6 1
+The Mean arrival rate is 3.850 
+The Variance of arrival from feeder is 4.128 
+The Standard deviation of arrival from feeder is 2.032
+```
+#Result:
+The mean and variance of arrivals of objects from feeder using probability distribution is calculated.
+
