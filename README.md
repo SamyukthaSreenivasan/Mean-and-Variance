@@ -44,8 +44,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 # Experiment :
-
-
+![image](https://user-images.githubusercontent.com/119475703/229995303-c1aa9652-fb57-4409-baea-fb741271d046.png)
 # Program :
 ```
 import numpy as np
